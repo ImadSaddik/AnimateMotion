@@ -8,4 +8,6 @@ A simple way to make an object follow a path in SVG using the `animateMotion` el
 
 Try it out here: [https://imadsaddik.github.io/AnimateMotion/](https://imadsaddik.github.io/AnimateMotion/)
 
+https://github.com/user-attachments/assets/0cdb3052-d750-4348-8876-445137642338
+
 Watch my YouTube tutorial on how to create this animation: [Animate SVGs with the animateMotion tag](https://youtu.be/-CGtL2ay7Fw)
