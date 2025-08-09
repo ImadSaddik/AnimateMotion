@@ -1,6 +1,6 @@
 # AnimateMotion
 
-![Cover image](./images/cover.jpg)
+![Cover image](./images/cover.png)
 
 A simple way to make an object follow a path in SVG using the `animateMotion` element. This project shows how to animate planets orbiting around a star.
 
