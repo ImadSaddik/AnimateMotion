@@ -69,59 +69,9 @@
 		<inkscape:path-effect effect="bspline" id="path-effect183" is_visible="true" lpeversion="1.3" weight="33.333333" steps="2" helper_size="0" apply_no_weight="true" apply_with_weight="true" only_selected="false" uniform="false" />
 		<inkscape:path-effect effect="bspline" id="path-effect179" is_visible="true" lpeversion="1.3" weight="33.333333" steps="2" helper_size="0" apply_no_weight="true" apply_with_weight="true" only_selected="false" uniform="false" />
 		<inkscape:path-effect effect="bspline" id="path-effect177" is_visible="true" lpeversion="1.3" weight="33.333333" steps="2" helper_size="0" apply_no_weight="true" apply_with_weight="true" only_selected="false" uniform="false" />
-
-
-
-
-
-
-
-
-
 	</defs>
 	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(45.016651,10.72788)">
 		<circle style="opacity:1;fill:#f29508;fill-opacity:1;stroke:none;stroke-width:0.347555;stroke-linejoin:round" id="path152" cx="67.73333" cy="67.73333" r="11.005835" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 		<g id="planetsWithOrbitPaths" transform="translate(1.2090941e-6)" inkscape:label="planetsWithOrbitPaths">
 			<path id="planetOrbit4" style="fill:none;stroke:#f9f9f9;stroke-width:0.529388;stroke-linejoin:round" inkscape:label="planetOrbit4" transform="matrix(0.88591393,-0.46384965,0.49964686,0.86622919,0,0)" d="M 71.268728,91.746033 A 46.518192,16.794153 0 0 1 24.750536,108.54019 46.518192,16.794153 0 0 1 -21.767656,91.746033 46.518192,16.794153 0 0 1 24.750536,74.95188 46.518192,16.794153 0 0 1 71.268728,91.746033 Z" />
 			<path id="planetOrbit3" style="fill:none;stroke:#f9f9f9;stroke-width:0.529388;stroke-linejoin:round" inkscape:label="planetOrbit3" transform="matrix(0.88591393,-0.46384965,0.49964686,0.86622919,0,0)" d="M 81.288599,91.746033 A 56.538063,20.41156 0 0 1 24.750536,112.15759 56.538063,20.41156 0 0 1 -31.787527,91.746033 56.538063,20.41156 0 0 1 24.750536,71.334473 56.538063,20.41156 0 0 1 81.288599,91.746033 Z" />
