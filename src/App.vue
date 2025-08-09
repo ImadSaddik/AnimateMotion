@@ -57,7 +57,7 @@ body {
 }
 
 .illustration {
-  width: 40%;
+  width: 60%;
 }
 
 .custom-button {
